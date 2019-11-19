@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1574115385 source:c:\users\javier\desktop\gutierrez_javier_1f\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1574144020 source:c:\users\javier\desktop\gutierrez_javier_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"evaluacion.h"
+
+1574114935 c:\users\javier\desktop\gutierrez_javier_1f\inputs.h
+
+1574142652 c:\users\javier\desktop\gutierrez_javier_1f\evaluacion.h
+
+1574143882 source:c:\users\javier\desktop\gutierrez_javier_1f\evaluacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+	"evaluacion.h"
+
+1574143884 source:c:\users\alumno\desktop\gutierrez_javier_1f\evaluacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+	"evaluacion.h"
+
+1574114936 c:\users\alumno\desktop\gutierrez_javier_1f\inputs.h
+
+1574142654 c:\users\alumno\desktop\gutierrez_javier_1f\evaluacion.h
+
+1574115386 source:c:\users\alumno\desktop\gutierrez_javier_1f\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1574144022 source:c:\users\alumno\desktop\gutierrez_javier_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"evaluacion.h"
+
